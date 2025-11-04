@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=zerossin&color=00ff7b)
+![header](https://capsule-render.vercel.app/api?type=waving&text=pulqum&color=00ff7b)
 
 ### Hi there 👋
 
 🌱 I’m currently learning ...
 <div>
- <a href="https://zerossin.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
+ <a href="https://pulqum.com/" target="_blank"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat&logo=googlehome&logoColor=ffffff"/></a>
  <a><img src="https://img.shields.io/badge/pluqum@gmail.com-F34538?style=flat&logo=gmail&logoColor=ffffff"/></a>
 </div>
 
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-![Mints's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zerossin&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
+![Mints's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pulqum&show_icons=true&hide_border=true&title_color=00ff7b&icon_color=004386&layout=compact&theme=dark)
 
 -----
 #### :pencil2: Study log
 
-![Mints's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerossin&show_icons=true&title_color=00ff7b&theme=radical)
+![Mints's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulqum&show_icons=true&title_color=00ff7b&theme=radical)
 
 </div>
